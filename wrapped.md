@@ -1,0 +1,42 @@
+```
+└── 📁src
+    └── 📁assets
+        ├── react.svg
+    └── 📁features
+        └── 📁auth
+            └── 📁components
+                ├── Login.jsx
+                ├── ProtectedRoute.jsx
+            └── 📁hooks
+                ├── UseAuth.jsx
+        └── 📁cart
+            └── 📁components
+                ├── Cart.jsx
+                ├── CartButton.jsx
+            └── 📁hooks
+                ├── CartContext.jsx
+                ├── UseNotification.jsx
+            └── 📁pages
+                ├── CartPages.jsx
+        └── 📁landing
+            └── 📁components
+                ├── CharCard.jsx
+                ├── Dashboard.jsx
+                ├── StructureCard.jsx
+            └── 📁hooks
+                ├── CharacterContext.jsx
+            └── 📁pages
+                ├── LandingPages.jsx
+    └── 📁shared
+        └── 📁components
+            ├── Footer.jsx
+            ├── Header.jsx
+            ├── Section.jsx
+        └── 📁hooks
+            ├── CharService.jsx
+        └── 📁styles
+            ├── CartStyles.css
+            ├── main.css
+    ├── App.jsx
+    └── main.jsx
+```
